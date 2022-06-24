@@ -1,1 +1,1 @@
-This is a repository for ALX shell basics project
+This is the readme content for shell permissions project
