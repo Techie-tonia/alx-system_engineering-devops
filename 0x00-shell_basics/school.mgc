@@ -1,2 +1,2 @@
 #!/bin/bash
-less school.mgc
+$School --mime-type -m school.mgc*
